@@ -6,10 +6,10 @@
 
 __Leetcode Study Plan 문제__
 
-| Study plan  | Complete |
+| Study plan  | State |
 | ------------- |:-------------:|
-| Leetcode Programming Skils lv.1   | x     |
+| Leetcode Programming Skils lv.1   | Proceeding    |
 | Leetcode Algorithm lv.1   | x     |
-| Leetcode DS lv.1          | x     |
-| Leetcode DP lv.1          | x     |
+| Leetcode DS lv.1          | Proceeding     |
+| Leetcode DP lv.1          | Proceeding     |
 | Leetcode Graph lv.1       | x     |
