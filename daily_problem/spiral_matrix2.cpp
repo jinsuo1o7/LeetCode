@@ -1,4 +1,4 @@
-// 2022.4.13일 문제
+// 2022.04.13
 // https://leetcode.com/problems/spiral-matrix-ii/
 #include <bits/stdc++.h>
 using namespace std;
