@@ -21,7 +21,6 @@ public:
     }
     return result;
   }
-
   bool backspaceCompare(string S, string T) {
     return getString(S) == getString(T);
   }
