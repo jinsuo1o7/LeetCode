@@ -12,4 +12,4 @@ __Leetcode Study Plan 문제__
 | Leetcode Algorithm lv.1   | x     |
 | Leetcode DS lv.1          | O     |
 | Leetcode DP lv.1          | O     |
-| Leetcode Graph lv.1       | x     |
+| Leetcode Graph lv.1       | Proceeding    |
