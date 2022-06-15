@@ -1,7 +1,7 @@
 // 2022.06.14
 // https://leetcode.com/problems/delete-operation-for-two-strings/
 #include <bits/stdc++.h>
-using namespace std;https://leetcode.com/problems/delete-operation-for-two-strings/
+using namespace std;
 class Solution {
 public:
   vector<vector<int>> dp;
