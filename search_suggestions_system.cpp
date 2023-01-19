@@ -4,8 +4,7 @@
 using namespace std;
 class Solution {
 public:
-  vector<vector<string>> suggestedProducts(vector<string> &A,
-                                           string searchWord) {
+  vector<vector<string>> suggestedProducts(vector<string> &A, string searchWord) {
     auto it = A.begin();
     sort(it, A.end());
     vector<vector<string>> res;
